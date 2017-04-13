@@ -1,0 +1,2 @@
+Name: Sindy, Strength: 5
+Name: Moon, Strength: 4
